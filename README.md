@@ -6,8 +6,8 @@ This project is a web application developed for managing and viewing the academi
 
 - **Frontend:** React, Vite, Tailwind CSS  
 - **Backend:** Express.js, Node.js  
-- **Database:** PostgreSQL / MongoDB (Specify the database used)  
-- **Authentication:** Clerk  
+- **Database:** PostgreSQL / MongoDB 
+- **Authentication:** Custom backend authentication  
 
 ## 📌 Features
 
